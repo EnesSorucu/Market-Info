@@ -135,3 +135,12 @@ to:
 ``` python
 from numpy import nan as npNaN
 ```
+## Contributing
+
+If you want to contribute, feel free to suggest improvements or report bugs.
+
+---
+
+## License
+
+MIT License © 2025
